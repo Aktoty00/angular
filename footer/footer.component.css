@@ -1,0 +1,11 @@
+.page-footer{
+    background-color: black;
+    color: red;
+}
+.one-two-three{
+    display: grid;
+    grid-template-columns: 35% 33% 32%;
+}
+.copyright a{
+    text-align: center;
+}

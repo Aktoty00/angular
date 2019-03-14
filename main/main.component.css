@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .btn {
+    height: 47px;
+    width: 117px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-repeat:no-repeat;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    float: left;
+    } */
+    /* .soc{
+    height: 37px;
+    width: 37px;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-repeat:no-repeat;
+    /* float: left;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    } */
+    /* #inst{
+        /* margin-right: 10px;
+        width: 40px;
+    }
+    #vk{
+    }
+    #instagram{
+        margin-right: 70px;
+    } */
+/* #myImg{
+    height: 37px;
+    width: 37px;
+}
+#socP{
+    margin-right: 80px;
+} */
+/* .mynet{
+    margin-right: 90px;
+} */
+/* .myTitle{
+    font-size: 50px;
+    margin-left: 300px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    float: left;
+} */
+/* .job{
+     float: right;
+     margin-right: 350px;
+     margin-top: 20px;
+     width: 100px;
+     height: 30px;
+     border-radius: 3px;
+     color: white;
+     background-color: black;
+} */
+/* .logIN{
+     float: right;
+     margin-right: 20px;
+     margin-top: 20px;
+     height: 20px;
+     width: 70px;
+     border-radius: 3px;
+     color: white;
+     background-color: black;
+}
+.logUP{
+     float: right;
+     margin-right: 30px;
+     margin-top:20px;
+     height: 20px;
+     width: 70px;
+     border-radius: 3px;
+     color: white;
+     background-color: black;
+} */
+
+.u_header{
+    /* border: 2px solid red; */
+    /* min-height: 10%; */
+    text-align: center;
+}
+.search{
+    margin-top: 10px;
+}
+#myInput{
+    width: 400px;
+    margin-right: 10px;
+}
+#go{
+    margin-left: 20px;
+    border-radius: 3px;
+    width: 60px;
+    color: white;
+    background-color: black;
+}
+.category{
+    margin-right: 60px;
+}
+.myCategories{
+    height: 30px;
+    width: 90px;
+    margin: 10px 5px ;
+    background-color: blue;
+}
+h5{
+    margin-top: 5px;
+    font-size: 20px;
+}
+.myJobs{
+    width: 900px;
+    margin-left: 300px;
+    margin-bottom: 40px;
+    overflow: scroll;
+    height: 480px;
+}
+.job_name{
+   border: 1px solid green;
+   width: 80px;
+   height: 30px;
+   float: left;
+   margin-left: 20px;
+}
+.li_category{
+   float: left;
+   border: 1px solid green;
+   width: 80px;
+   height: 30px;
+   margin-left: 20px;
+}  
+.user_name{
+    float: left;
+    border: 1px solid green;
+    width: 100px;
+    height: 30px;
+    margin-left: 20px;
+}
+.s_desc{
+    float: left;
+    border: 1px solid green;
+    width: 400px;
+    height: 30px;
+    margin-left: 40px;
+}
+.price{
+    float: right;
+    border: 1px solid green;
+    width: 80px;
+    height: 30px;
+    margin-right: 20px;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+    border: 1px solid yellow;
+    height: 40px;
+    margin-top: 10px;
+    padding: 5px;
+    background: rgb(214, 205, 205);
+   }

@@ -1,0 +1,23 @@
+body{
+    background-image: url(static/bckgrnd2.jpg);
+}
+h1{
+    position: relative;
+    top: 50px;
+    left: 25%;
+}
+input{
+    font-size: 18px;
+}
+form{
+    position: relative;
+    left: 25%;
+    top: 30px;
+    width: 600px;
+    height: 300px;
+}
+#borderimg{
+    border: 20px solid transparent;
+    padding: 15px;
+    border-image: url(static/border.png) 100 round;
+}

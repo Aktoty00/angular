@@ -1,0 +1,20 @@
+.page-header{
+    background-color: black;
+    color: red;
+}
+.UlDiv ul{
+  margin-left: 500px;
+}
+.UlDiv ul li{
+  display: inline;
+  margin-left: 50px;
+}
+.UlDiv ul li a{
+  text-decoration: none;
+  color: red;
+}
+.headGiveGet{
+  float: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
